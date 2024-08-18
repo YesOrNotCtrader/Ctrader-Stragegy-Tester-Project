@@ -20,8 +20,8 @@ Nous invitons toutes les personnes intéressées à rejoindre ce projet. Que vou
 
 Base du Robot
 
-    Paramètres de risque simplifiés : Le robot intègre des paramètres de gestion des risques simplifiés, tels que des volumes fixes ou un pourcentage du compte à risque.
-    Prise de décision selon la stratégie NNFX : Le robot prendra des décisions basées sur l'approche NNFX, garantissant une méthode de trading systématique et éprouvée.
-    Rapport de stratégie : Le robot fournira des rapports détaillés incluant des indicateurs tels que le Drawdown (DD), le Profit Factor, le nombre minimum de victoires consécutives, la moyenne des victoires consécutives, etc.
+Paramètres de risque simplifiés : Le robot intègre des paramètres de gestion des risques simplifiés, tels que des volumes fixes ou un pourcentage du compte à risque.
+Prise de décision selon la stratégie NNFX : Le robot prendra des décisions basées sur l'approche NNFX, garantissant une méthode de trading systématique et éprouvée.
+Rapport de stratégie : Le robot fournira des rapports détaillés incluant des indicateurs tels que le Drawdown (DD), le Profit Factor, le nombre minimum de victoires consécutives, la moyenne des victoires consécutives, etc.
 
 Ce projet vise à créer un outil puissant pour les traders cherchant à optimiser leurs stratégies à travers une approche analytique rigoureuse et une gestion des risques simplifiée.
