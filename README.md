@@ -1,27 +1,25 @@
-# Ctrader-Stragegy-Tester-Project
-Quantitative Analysis: The Key to Mastering Trading Strategies.
+**Quantitative Analysis: The Key to Mastering Trading Strategies**
 
+**Project to Develop a CBot for Trading Strategy Analysis**
 
-Projet de Création d'un CBot pour l'Analyse de Stratégies de Trading
+The objective of this project is to develop a CBot for the cTrader platform, capable of analyzing a wide range of trading strategies. This robot is based on the NNFX principle to identify effective trading strategies without relying on complex risk management methods such as grids, hedging, or martingale.
 
-L'objectif de ce projet est de développer un CBot destiné à l'application cTrader, capable d'analyser un large éventail de stratégies de trading. Ce robot se base sur le principe du NNFX pour identifier des stratégies de trading performantes, sans recourir à des méthodes de gestion des risques complexes telles que les grilles (grid), les couvertures (hedge), ou la martingale.
+**What is NNFX?**
 
-Qu'est-ce que le NNFX ?
+NNFX, or No Nonsense Forex, is a trading approach that emphasizes simplicity and efficiency in strategy development. Rather than focusing on common trading indicators or complex risk management methods, NNFX advocates for the use of lesser-known but robust indicators, logically combined to form a coherent and effective strategy. The goal is to minimize market noise and maximize the clarity of trading signals.
 
-NNFX, ou No Nonsense Forex, est une approche de trading qui met l'accent sur la simplicité et l'efficacité dans l'élaboration de stratégies. Plutôt que de se concentrer sur des indicateurs de trading courants ou des méthodes de gestion de risques complexes, le NNFX recommande l'utilisation d'indicateurs moins connus mais robustes, combinés de manière logique pour former une stratégie cohérente et performante. L'objectif est de minimiser le bruit du marché et de maximiser la clarté des signaux de trading.
+**Quantitative Analysis**
 
-Analyse Quantitative
+Quantitative analysis is a method of evaluating trading strategies based on numerical data. It involves collecting and analyzing historical market data to assess the performance of strategies in terms of gains, losses, and other key indicators. This approach allows for the identification of the best strategies based on measurable results, rather than assumptions or intuition. It is essential for understanding how a strategy might perform under real market conditions.
 
-L'analyse quantitative est une méthode d'évaluation des stratégies de trading basée sur des données chiffrées. Elle consiste à collecter et analyser des données historiques de marché pour évaluer la performance des stratégies en termes de gains, pertes, et autres indicateurs clés. Cette approche permet d’identifier les meilleures stratégies en se basant sur des résultats mesurables et non sur des hypothèses ou des intuitions. Elle est essentielle pour comprendre comment une stratégie pourrait se comporter dans des conditions de marché réelles.
+**Call for Participation**
 
-Appel à Participation
+We invite all interested individuals to join this project. Whether you are a developer, engineer, back-tester, or strategy designer, your expertise will be invaluable. Together, we can refine this CBot and develop robust analysis tools for traders.
 
-Nous invitons toutes les personnes intéressées à rejoindre ce projet. Que vous soyez développeur, ingénieur, back-testeur, ou concepteur de stratégies, votre expertise sera précieuse. Ensemble, nous pourrons affiner ce CBot et développer des outils d'analyse robustes pour les traders.
+**Robot Foundation**
 
-Base du Robot
+- **Simplified Risk Parameters**: The robot integrates simplified risk management parameters, such as fixed volumes or a percentage of the account at risk.
+- **Decision-Making According to the NNFX Strategy**: The robot will make decisions based on the NNFX approach, ensuring a systematic and proven trading method.
+- **Strategy Report**: The robot will provide detailed reports including indicators such as Drawdown (DD), Profit Factor, minimum number of consecutive wins, average consecutive wins, etc.
 
-Paramètres de risque simplifiés : Le robot intègre des paramètres de gestion des risques simplifiés, tels que des volumes fixes ou un pourcentage du compte à risque.
-Prise de décision selon la stratégie NNFX : Le robot prendra des décisions basées sur l'approche NNFX, garantissant une méthode de trading systématique et éprouvée.
-Rapport de stratégie : Le robot fournira des rapports détaillés incluant des indicateurs tels que le Drawdown (DD), le Profit Factor, le nombre minimum de victoires consécutives, la moyenne des victoires consécutives, etc.
-
-Ce projet vise à créer un outil puissant pour les traders cherchant à optimiser leurs stratégies à travers une approche analytique rigoureuse et une gestion des risques simplifiée.
+This project aims to create a powerful tool for traders seeking to optimize their strategies through a rigorous analytical approach and simplified risk management.
