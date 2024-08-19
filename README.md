@@ -23,3 +23,7 @@ We invite all interested individuals to join this project. Whether you are a dev
 - **Strategy Report**: The robot will provide detailed reports including indicators such as Drawdown (DD), Profit Factor, minimum number of consecutive wins, average consecutive wins, etc.
 
 This project aims to create a powerful tool for traders seeking to optimize their strategies through a rigorous analytical approach and simplified risk management.
+
+Need more? Click below to see how you can use a strategy tester. This YouTube playlist shows you how to create a strategy step by step using a strategy tester :
+
+https://www.youtube.com/playlist?list=PLKO_4Dpj9Esz7EliB7HvxVHsADEKT5SfH
