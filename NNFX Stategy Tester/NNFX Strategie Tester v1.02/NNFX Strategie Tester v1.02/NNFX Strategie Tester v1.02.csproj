@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="cTrader.Automate" Version="*" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Indicators\ST_MfiMa\ST_MfiMa\ST_MfiMa.csproj" />
+    <ProjectReference Include="..\..\..\Indicators\ST_RsiMa\ST_RsiMa\ST_RsiMa.csproj" />
+    <ProjectReference Include="..\..\..\Indicators\ST_SuperTrend\ST_SuperTrend\ST_SuperTrend.csproj" />
+  </ItemGroup>
+</Project>

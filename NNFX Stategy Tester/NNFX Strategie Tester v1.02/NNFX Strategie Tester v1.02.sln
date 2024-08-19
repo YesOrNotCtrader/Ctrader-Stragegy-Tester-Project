@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST_SuperTrend", "..\..\Indicators\ST_SuperTrend\ST_SuperTrend\ST_SuperTrend.csproj", "{ff384d57-ce61-4249-b2c6-27eb3f7ca8a6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST_RsiMa", "..\..\Indicators\ST_RsiMa\ST_RsiMa\ST_RsiMa.csproj", "{b3d2996e-5121-4958-b362-2a2886cf15de}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ST_MfiMa", "..\..\Indicators\ST_MfiMa\ST_MfiMa\ST_MfiMa.csproj", "{3f939ac4-6a7c-4490-9696-8dd1c80b72cb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNFX Strategie Tester v1.02", "NNFX Strategie Tester v1.02\NNFX Strategie Tester v1.02.csproj", "{ff93037c-d7ff-45b5-ae7e-c44dcaf62a28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ff93037c-d7ff-45b5-ae7e-c44dcaf62a28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ff93037c-d7ff-45b5-ae7e-c44dcaf62a28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ff93037c-d7ff-45b5-ae7e-c44dcaf62a28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ff93037c-d7ff-45b5-ae7e-c44dcaf62a28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+
+
