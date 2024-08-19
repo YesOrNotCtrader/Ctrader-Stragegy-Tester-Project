@@ -185,9 +185,9 @@ namespace cAlgo.Robots
             //Init indicator
             baseline1MovingAverage = Indicators.MovingAverage(MarketData.GetBars(Baseline1TimeFrame).ClosePrices, Baseline1MovingAveragePeriod, Baseline1MovingAverageMaType);
             entry1Rsi = Indicators.GetIndicator<ST_RsiMa>(MarketData.GetBars(Entry1TimeFrame), Entry1RsiPeriod, Entry1RsiPeriodSignal, Entry1RsiPeriodSignalMaType);
-            confirmation1Macd = Indicators.MacdCrossOver(MarketData.GetBars(Entry1TimeFrame).ClosePrices, Confirmation1MacdPeriodSlow, Confirmation1MacdPeriodFast, Confirmation1MacdPeriodSignal);
-            volume1Mfi = Indicators.GetIndicator<ST_MfiMa>(MarketData.GetBars(Entry1TimeFrame), Volume1MfiPeriod, Volume1MfiPeriodSignal, Volume1MfiPeriodSignalMaType);
-            exit1Supertrend = Indicators.GetIndicator<ST_SuperTrend>(MarketData.GetBars(Entry1TimeFrame), Exit1SuperTrendPeriod, Exit1SuperTrendPeriodMulti);
+            confirmation1Macd = Indicators.MacdCrossOver(MarketData.GetBars(Confirmation1TimeFrame).ClosePrices, Confirmation1MacdPeriodSlow, Confirmation1MacdPeriodFast, Confirmation1MacdPeriodSignal);
+            volume1Mfi = Indicators.GetIndicator<ST_MfiMa>(MarketData.GetBars(Volume1TimeFrame), Volume1MfiPeriod, Volume1MfiPeriodSignal, Volume1MfiPeriodSignalMaType);
+            exit1Supertrend = Indicators.GetIndicator<ST_SuperTrend>(MarketData.GetBars(Exit1TimeFrame), Exit1SuperTrendPeriod, Exit1SuperTrendPeriodMulti);
 
             //SL Function
             atr = Indicators.AverageTrueRange(AtrSLPeriod, AtrSLMaType);
