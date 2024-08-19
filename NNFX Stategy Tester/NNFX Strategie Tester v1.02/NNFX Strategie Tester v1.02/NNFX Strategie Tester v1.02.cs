@@ -190,7 +190,8 @@ namespace cAlgo.Robots
             exit1Supertrend = Indicators.GetIndicator<ST_SuperTrend>(MarketData.GetBars(Exit1TimeFrame), Exit1SuperTrendPeriod, Exit1SuperTrendPeriodMulti);
 
             //SL Function
-            atr = Indicators.AverageTrueRange(AtrSLPeriod, AtrSLMaType);
+            atr = Indicators.AverageTrueRange(MarketData.GetBars(Exit1TimeFrame), AtrSLPeriod, AtrSLMaType);
+
 
             //Base Setting 
 
