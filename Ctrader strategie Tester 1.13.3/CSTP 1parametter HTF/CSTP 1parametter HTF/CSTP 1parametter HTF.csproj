@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="cTrader.Automate" Version="1.*" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\MAMA HISTOGRAM\MAMA HISTOGRAM\MAMA HISTOGRAM.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Ma Tf Baseline v Heritage\Ma Tf Baseline v Heritage\Ma Tf Baseline v Heritage.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CSTP_Indi_1Parametter\CSTP_Indi_1Parametter\CSTP_Indi_1Parametter.csproj" />
+  </ItemGroup>
+</Project>
